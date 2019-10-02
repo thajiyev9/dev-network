@@ -59,8 +59,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Tural Hajiyev](https://www.linkedin.com/in/tural-hajiyev-703a15155) - thajiyev9@outlook.com
+[Tural Hajiyev](https://www.linkedin.com/in/tural-hajiyev-703a15155) - thajiyev9@outlook.com
 
-Project Link: [https://github.com/thajiyev9/dev-network](https://github.com/thajiyev9/dev-network)
+[https://github.com/thajiyev9/dev-network](https://github.com/thajiyev9/dev-network)
 
 
