@@ -6,7 +6,6 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [License](#license)
 * [Contact](#contact)
 
 
@@ -49,11 +48,6 @@ git clone https:://github.com/thajiyev9/dev-network.git
 ```sh
 npm install
 ```
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
