@@ -12,7 +12,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-It is a social platform for developers to communicate and share their information with others to introduce yourselves and get any job offers. 
+It is a social platform for developers to communicate and share their information with others to introduce themselves and get any job offers. 
 
 Features:
 * Registration & Login 
