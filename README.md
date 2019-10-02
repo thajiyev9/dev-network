@@ -11,25 +11,24 @@
 ## Installation
 
 - Download or clone this `code` to your local machine;
-- run `npm install` to download required packages
+> download and install required packages
+
+```shell
+$ npm install
+```
+
+> Start project 
+
+```shell
+$ npm run server
+
+```
 
 ### Setup
 
 - If you want more syntax highlighting, format your code like this:
 
-> update and install this package first
 
-```shell
-$ brew update
-$ brew install fvcproductions
-```
-
-> now install npm and bower packages
-
-```shell
-$ npm install
-$ bower install
-```
 
 - For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
 
