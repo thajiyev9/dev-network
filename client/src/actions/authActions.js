@@ -32,6 +32,7 @@ export const loginUser = (userData) => dispatch => {
 
         dispatch(setCurrentUser(decoded));
 
+
     })
     .catch(err => {
         dispatch({
