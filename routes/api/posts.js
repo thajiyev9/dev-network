@@ -125,7 +125,7 @@ router.post('/unlike/:id', passport.authenticate('jwt', { session: false }), (re
 // @route POST api/posts/comment/:id
 // @desc Add comment to post
 // @access Private
-router.post('/:id/comment', passport.authenticate('jwt', {session: false}), (req,res) => {
+router.post('/comment/:id', passport.authenticate('jwt', {session: false}), (req,res) => {
 
     const {errors,isValid} = validatePostInput(req.body);
     
@@ -155,7 +155,7 @@ router.post('/:id/comment', passport.authenticate('jwt', {session: false}), (req
 // @route DELETE api/posts/:id/comment/:comment_id
 // @desc Delete comment from post
 // @access Private
-router.delete('/:id/comment/:comment_id', passport.authenticate('jwt', {session: false}), (req,res) => {
+router.delete('/comment/:id/:comment_id', passport.authenticate('jwt', {session: false}), (req,res) => {
 
 
     Post.findById(req.params.id) 
